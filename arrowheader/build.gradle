@@ -5,7 +5,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 def siteUrl = 'https://github.com/wuyr/ArrowHeader' //需要修改
 def gitUrl = 'https://github.com/Ifxcyr/ArrowHeader.git' //需要修改
 
-version = "1.0.2"
+version = "1.0.3"
 group = "com.wuyr"
 
 android {
@@ -14,7 +14,7 @@ android {
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0.2"
+        versionName "1.0.3"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -27,7 +27,7 @@ android {
 dependencies {
     implementation 'com.android.support:support-annotations:28.0.0'
     //ArrowDrawable
-    api 'com.wuyr:arrowdrawable:1.0.0'
+    api 'com.wuyr:arrowdrawable:1.0.1'
     //下拉刷新
     compileOnly 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-andx-11'
 }
@@ -47,10 +47,10 @@ bintray {
         publish = true
 
         version {
-            name = '1.0.2'
+            name = '1.0.3'
             desc = '一个射箭效果的下拉刷新。' //需要修改
             released = new Date()
-            vcsTag = '1.0.2'
+            vcsTag = '1.0.3'
             attributes = ['gradle-plugin': 'com.use.less:com.use.less.gradle:gradle-useless-plugin']
         }
     }
@@ -90,7 +90,7 @@ install {
                     dependency{
                         groupId 'com.wuyr'
                         artifactId 'arrowdrawable'
-                        version '1.0.0'
+                        version '1.0.1'
                         scope 'compile'
                     }
                 }

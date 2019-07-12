@@ -4,7 +4,7 @@
 ### 使用方式:
 #### 添加依赖： (需配合[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)使用)
 ```
-implementation 'com.wuyr:arrowheader:1.0.2'
+implementation 'com.wuyr:arrowheader:1.0.3'
 ```
 
 ### APIs:
