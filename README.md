@@ -1,5 +1,5 @@
 ##  一个射箭效果的下拉刷新Header。
-### 博客详情： 敬请期待。。。
+### 博客详情： <https://blog.csdn.net/u011387817/article/details/94607919>
 
 ### 使用方式:
 #### 添加依赖： (需配合[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)使用)
