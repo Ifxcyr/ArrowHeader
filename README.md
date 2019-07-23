@@ -41,4 +41,3 @@ implementation 'com.wuyr:arrowheader:1.0.3'
 
 ### 效果图：
 ![preview](https://github.com/wuyr/ArrowDrawable/raw/master/previews/preview1.gif) ![preview](https://github.com/wuyr/ArrowDrawable/raw/master/previews/preview2.gif)
-![preview](https://github.com/wuyr/ArrowDrawable/raw/master/previews/preview4.gif)![preview](https://github.com/wuyr/ArrowDrawable/raw/master/previews/preview3.gif)
