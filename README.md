@@ -37,7 +37,7 @@ implementation 'com.wuyr:arrowheader:1.0.3'
 
 ### Demo下载: [app-debug.apk](https://github.com/wuyr/ArrowDrawable/raw/master/app-debug.apk)
 ### Demo源码地址： <https://github.com/wuyr/ArrowDrawable>
-### ArrowDrawable源码地址: <https://github.com/Ifxcyr/ArrowHeader>
+### ArrowDrawable源码地址: <https://github.com/Ifxcyr/ArrowDrawable>
 
 ### 效果图：
 ![preview](https://github.com/wuyr/ArrowDrawable/raw/master/previews/preview1.gif) ![preview](https://github.com/wuyr/ArrowDrawable/raw/master/previews/preview2.gif)
